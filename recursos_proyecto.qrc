@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="LOGOS">
+    <file>Imagenes/pngegg.png</file>
+    <file>Imagenes/uat.png</file>
+  </qresource>
+</RCC>
